@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Dugokoch
 - 👀 I’m interested in A.I
-- 🌱 I’m currently learning A.I essentials with ALX 
+- 🌱 I’m currently learning A.I career essentials with ALX (AiCE) 
 - 💞️ I’m looking to collaborate on A>I learning 
 - 📫 How to reach me ...
 - 😄 Pronouns: ...She/her 
